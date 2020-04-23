@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
 title: Dhelta Ingeniería Civil SAS
-image: /img/hero-image.jpg
+image: /img/logo-dhelta-portada-web-v3.jpg
 heading: Consultoría e interventoría de proyectos de infraestructura
 subheading: Empresa dedicada a la Consultoría e interventoría de proyectos de
   infraestructura
 mainpitch:
-  title: Why Kaldi
+  title: Dhelta Ingeniería Civil S.A.S.
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
