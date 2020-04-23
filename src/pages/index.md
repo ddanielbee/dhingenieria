@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dhelta Ingeniería Civil SAS
-image: /img/logo-dhelta-portada-web-v3.jpg
+image: /img/hero-image.jpg
 heading: Consultoría e interventoría de proyectos de infraestructura
 subheading: Empresa dedicada a la Consultoría e interventoría de proyectos de
   infraestructura
