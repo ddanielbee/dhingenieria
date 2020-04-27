@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Dhelta Ingeniería Civil SAS
 image: /img/hero-image.jpg
-heading: Consultoría e interventoría de proyectos de infraestructura
+heading: "Consultoría e interventoría de proyectos de infraestructura "
 subheading: Empresa dedicada a la Consultoría e interventoría de proyectos de
   infraestructura
 mainpitch:
@@ -30,7 +30,7 @@ main:
     Dirección: C.C. Monzerrat Plaxa locales 37 y 44, Popayán, Cauca, Colombia
   image1:
     alt: "Correo electrónico: info@dhingenieria.com.co Teléfono: 3153047282
-      Dirección: C.C. Monzerrat Plaxa locales 37 y 44, Popayán, Cauca, Colombia"
+      Dirección: C.C. Monzerrat Plaza locales 37 y 44, Popayán, Cauca, Colombia"
     image: /img/logo-dhelta-portada-web.jpg
   image2:
     alt: Nuestras oficinas
