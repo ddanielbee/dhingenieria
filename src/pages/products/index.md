@@ -1,5 +1,5 @@
 ---
-heading: Estudios y diseños
+heading: "Estudios y diseños "
 path: /products
 templateKey: product-page
 title: Nuestros productos
