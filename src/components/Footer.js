@@ -52,7 +52,7 @@ const Footer = () => {
               </section>
             </div>
             <div className="column is-4 social">
-              <ul className="social-list contact-list">
+              <ul className="list contact-list">
                 <li>
                   <a href={`mailto:${email}`}>{email}</a>
                 </li>
@@ -63,7 +63,7 @@ const Footer = () => {
                   <span>{address}</span>
                 </li>
               </ul>
-              <ul className="social-list media-list">
+              <ul className="list media-list">
                 <li>
                   <a title="facebook" href="https://facebook.com">
                     <img
