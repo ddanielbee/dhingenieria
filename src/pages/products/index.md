@@ -7,7 +7,7 @@ image: /img/img-2530.jpg
 description: Realizamos consultorías, proyectos de estudios y diseños
 intro:
   blurbs: []
-  heading: What we offer
+  heading: Nuestros servicios
   description: >+
     Infraestructura vial:
 
@@ -55,10 +55,10 @@ main:
   image3:
     alt: Estudios y diseños infraestructura vial
     image: /img/yescas-of.png
-testimonials: []
 full_image: /img/aeropuerto.png
 pricing:
   heading: Cotizaciones
   description: info@dhingenieria.com.co
   plans: []
+testimonials: []
 ---
