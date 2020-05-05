@@ -27,7 +27,7 @@ main:
   description: |-
     Correo electrónico: info@dhingenieria.com.co
     Teléfono: 3153047282
-    Dirección: C.C. Monzerrat Plaxa locales 37 y 44, Popayán, Cauca, Colombia
+    Dirección: C.C. Monserrat Plaza locales 37 y 44, Popayán, Cauca, Colombia
   image1:
     alt: "Correo electrónico: info@dhingenieria.com.co Teléfono: 3153047282
       Dirección: C.C. Monzerrat Plaza locales 37 y 44, Popayán, Cauca, Colombia"
