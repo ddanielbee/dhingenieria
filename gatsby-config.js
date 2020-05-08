@@ -4,7 +4,7 @@ module.exports = {
     description: "Descripción de Dhelta",
     email: "info@dhingenieria.com.co",
     phone: "3153047282",
-    address: "C.C. Monzerrat Plaxa locales 37 y 44, Popayán, Cauca, Colombia",
+    address: "C.C. Monserrat Plaza locales 37 y 44, Popayán, Cauca, Colombia",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
