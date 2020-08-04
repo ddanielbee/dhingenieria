@@ -10,7 +10,7 @@ mainpitch:
   description: >
     Dhelta Ingeniería Civil SAS es una empresa dedicada a la elaboración de
     proyectos de consultoría, interventoría, estudios y diseños en al área de
-    infraestructura vial y edificaciones.
+    infraestructura.
 description: Dhelta Ingeniería Civil SAS es una empresa dedicada a la
   elaboración de proyectos de consultoría, interventoría, estudios y diseños en
   al área de infraestructura vial y edificaciones.
@@ -18,8 +18,9 @@ intro:
   blurbs: []
   heading: NUESTRO SERVICIOS
   description: |
-    Consultoría, estudios y duseños en infraestructura vial 
-    Consultoría, estudios y disños en edificaciones
+    Consultoría, estudios y diseños en infraestructura vial 
+    Consultoría, estudios y diseños en edificaciones
+    Consultoría, estudios y diseños en acueductos y alcantarillados
     Interventoría a estudios y diseños de infraestructura vial y edificaciones
     Interventoría a obras de infraestructura vial y edificaciones
 main:
