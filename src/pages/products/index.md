@@ -1,9 +1,8 @@
 ---
+templateKey: product-page
+image: /img/img-2530.jpg
 heading: "Estudios y diseños "
 path: /products
-templateKey: product-page
-title: Nuestros productos
-image: /img/img-2530.jpg
 description: Realizamos consultorías, proyectos de estudios y diseños
 intro:
   blurbs: []
@@ -46,7 +45,7 @@ intro:
     - Interventoría de estudios y diseños
 
 main:
-  heading: Nuestras proyectos
+  heading: "Nuestros Proyectos "
   description: >
     
     INTERVENTORIA A LA EJECUCION DE LOS ESTUDIOS DE AMENAZA, VULNERABILIDAD Y RIESGOS POR MOVIMIENTOS DE MASA, INUNDACIONES Y AVENIDAS TORRENCIALES Y DE LOS DISEÑOS DE LAS OBRAS DEFINITIVAS PARA EL PROYECTO: CONSTRUCCIÓN DE LAS OBRAS DE MITIGACIÓN EN LA CUENCA DE LA QUEBRADA EL SALADO, EN EL MARCO DEL DECRETO 0339 CALAMIDAD PÚBLICA EN EL MCPIO DE PÁEZ, DPTO DEL CAUCA.
@@ -141,4 +140,5 @@ pricing:
   description: info@dhingenieria.com.co
   plans: []
 testimonials: []
+title: Nuestros productos
 ---
