@@ -25,10 +25,12 @@ intro:
     Interventoría a obras de infraestructura vial y edificaciones
 main:
   heading: Información
-  description: |-
-    Correo electrónico: info@dhingenieria.com.co
-    Teléfono: 3153047282
-    Dirección: C.C. Monserrat Plaza locales 37 y 44, Popayán, Cauca, Colombia
+  description: >-
+    Correo electrónico: info@dhingenieria.com.co - proyectos@dhingenieria.com.co
+
+    Teléfono: 3145316833
+
+    Dirección: Calle 31N #14-40, Casa #2, Barrio Campo Bello, Popayán, Cauca, Colombia
   image1:
     alt: "Correo electrónico: info@dhingenieria.com.co Teléfono: 3153047282
       Dirección: C.C. Monzerrat Plaza locales 37 y 44, Popayán, Cauca, Colombia"
